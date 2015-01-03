@@ -1,0 +1,3 @@
+SPARQLEndpoint - France
+  Thésaurus du Ministère de la Culture et de la Communication: http://data.culture.fr/thesaurus/sparql
+  Biliothèque nationale de France: http://data.bnf.fr/sparql
