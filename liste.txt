@@ -1,5 +1,13 @@
-SPARQLEndpoint - France
-  Thésaurus du Ministère de la Culture et de la Communication: http://data.culture.fr/thesaurus/sparql
-  Biliothèque nationale de France: http://data.bnf.fr/sparql
-  Plateforme Isidore: http://www.rechercheisidore.fr/sparql
-  DBpedia Francophone: http://fr.dbpedia.org/sparql
+SPARQLEndpoint
+  Europe
+    Projets européens
+      Europeana: http://europeana.ontotext.com/sparql
+    Pays
+      France
+        Thésaurus du Ministère de la Culture et de la Communication: http://data.culture.fr/thesaurus/sparql
+        Biliothèque nationale de France: http://data.bnf.fr/sparql
+        Plateforme Isidore: http://www.rechercheisidore.fr/sparql
+        DBpedia Francophone: http://fr.dbpedia.org/sparql
+      Angleterre 
+        British Museum: http://collection.britishmuseum.org/
+    
