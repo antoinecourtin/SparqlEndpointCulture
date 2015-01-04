@@ -16,4 +16,4 @@ SPARQLEndpoint
   États-Unis
     Smithosian American Art Museum: http://americanart.si.edu/collections/search/lod/about/sparql.cfm
     Thésaurus du Getty Museum: http://vocab.getty.edu/sparql 
-    Collection de l'American Numismatic Society: http://numismatics.org/ocre/
+    Collection de l'American Numismatic Society: http://nomisma.org/sparql 
