@@ -1,6 +1,7 @@
 SPARQLEndpoint
   Projets internationaux 
     CLAROS: http://data.clarosnet.org/sparql/
+    Projet Gutenberg: http://wifo5-03.informatik.uni-mannheim.de/gutendata/snorql/
   Europe
     Projets européens
       Europeana: http://europeana.ontotext.com/sparql
@@ -13,7 +14,10 @@ SPARQLEndpoint
       Angleterre 
         British Museum: http://collection.britishmuseum.org/
         Université de Cambridge: http://data.lib.cam.ac.uk/endpoint.php 
+      Pays-Bas
+        Amsterdam Museum: http://semanticweb.cs.vu.nl/europeana/yasgui/index.html
   États-Unis
     Smithosian American Art Museum: http://americanart.si.edu/collections/search/lod/about/sparql.cfm
     Thésaurus du Getty Museum: http://vocab.getty.edu/sparql 
     Collection de l'American Numismatic Society: http://nomisma.org/sparql 
+    Yale Center for British Art: http://collection.britishart.yale.edu/sparql/
